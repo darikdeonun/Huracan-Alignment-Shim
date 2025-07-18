@@ -1,1 +1,2 @@
-# Huracan-Alignment-Shim
+# Huracan Alignment Shim
+The [Huracan Alignment Shim](https://www.t1racedevelopment.com/product/t1-huracan-r8-alignment-shim/) is an essential upgrade or replacement component designed to correct and fine-tune the wheel alignment of the Lamborghini Huracán. Whether you're adjusting camber for track performance or correcting suspension geometry after a hard drive, these shims offer precise control over alignment specifications.
